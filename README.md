@@ -1,11 +1,11 @@
 <h2 align="left">👋 Olá, me chamo Ester!<br></h2>
-<h5><br>Estou construindo minha jornada na tecnologia, explorando linguagens de programação e gestão de projetos e compartilhando projetos que refletem meu aprendizado e evolução contínua.</h5>
+<h4><br>Estou construindo minha jornada na tecnologia, explorando linguagens de programação e gestão de projetos e compartilhando projetos que refletem meu aprendizado e evolução contínua.</h4>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EsterRS7&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EsterRS7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=true" height="150" alt="languages graph"  />
 </div>
