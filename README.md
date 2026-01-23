@@ -1,4 +1,4 @@
-<h5>Sobre mim</h5>
+<h3>Sobre mim</h3>
 <p>
 Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento web e mobile e busco evoluir constantemente por meio de projetos acadêmicos e pessoais.<br>
 
