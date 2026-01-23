@@ -1,5 +1,11 @@
-<h2 align="left">👋 Olá, me chamo Ester!<br></h2>
-<h4>Estou construindo minha jornada na tecnologia, explorando linguagens de programação e gestão de projetos e compartilhando projetos que refletem meu aprendizado e evolução contínua.</h4>
+<h5>Sobre mim</h5>
+<p>
+Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento web e mobile e busco evoluir constantemente por meio de projetos acadêmicos e pessoais.<br>
+
+Possuo experiência com React, React Native, JavaScript, PHP, Java, Python e C++, além de bancos de dados como MySQL, SQL Server e Firebase. Já trabalhei com autenticação, integração com banco de dados, organização de regras de negócio, acessibilidade e interfaces responsivas.<br>
+
+Tenho atuação colaborativa em projetos em grupo, com foco em documentação, organização de fluxos e boas práticas de desenvolvimento. Atualmente, busco uma oportunidade como Estagiária em TI, Desenvolvedora Júnior ou Trainee.
+</p>
 
 ###
 
