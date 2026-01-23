@@ -1,10 +1,21 @@
 <h3>Sobre mim</h3>
 <p>
-Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento web e mobile e busco evoluir constantemente por meio de projetos acadêmicos e pessoais.<br>
+Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, com formação técnica em <b>Desenvolvimento de Sistemas</b>. Tenho interesse em <b>desenvolvimento web e mobile</b> e busco evoluir constantemente por meio de projetos acadêmicos e pessoais.<br>
 
-Possuo experiência com React, React Native, JavaScript, PHP, Java, Python e C++, além de bancos de dados como MySQL, SQL Server e Firebase. Já trabalhei com autenticação, integração com banco de dados, organização de regras de negócio, acessibilidade e interfaces responsivas.<br>
+Possuo experiência com <b>React, React Native, JavaScript, PHP, Java, Python e C++</b>, além de bancos de dados como <b>MySQL, SQL Server e Firebase</b>. Já trabalhei com autenticação, integração com banco de dados, organização de regras de negócio, acessibilidade e interfaces responsivas.<br>
 
-Tenho atuação colaborativa em projetos em grupo, com foco em documentação, organização de fluxos e boas práticas de desenvolvimento. Atualmente, busco uma oportunidade como Estagiária em TI, Desenvolvedora Júnior ou Trainee.
+Tenho atuação colaborativa em projetos em grupo, com foco em documentação, organização de fluxos e boas práticas de desenvolvimento. Atualmente, busco uma oportunidade como <b>Estagiária em TI, Desenvolvedora Júnior ou Trainee</b>.
+</p>
+
+<hr>
+
+<h3>About me</h3>
+<p>
+I am a <b>Systems Analysis and Development</b> student with a technical background in <b>Software Development</b>. I am interested in <b>web and mobile development</b> and continuously improve my skills through academic and personal projects.
+
+I have experience with <b>React, React Native, JavaScript, PHP, Java, Python, and C++</b>, as well as databases such as <b>MySQL, SQL Server, and Firebase</b>. My experience includes authentication, database integration, business logic organization, accessibility, and responsive interfaces.
+
+I work well in collaborative environments, contributing to documentation, workflow organization, and clean code practices. I am currently seeking an opportunity as an <b>IT Intern, Junior Developer, or Trainee</b>.
 </p>
 
 ###
