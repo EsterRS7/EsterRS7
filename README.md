@@ -5,7 +5,8 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, com formação t
 Possuo experiência com <b>React, React Native, JavaScript, PHP, Java, Python e C++</b>, além de bancos de dados como <b>MySQL, SQL Server e Firebase</b>. Já trabalhei com autenticação, integração com banco de dados, organização de regras de negócio, acessibilidade e interfaces responsivas.<br>
 
 Tenho atuação colaborativa em projetos em grupo, com foco em documentação, organização de fluxos e boas práticas de desenvolvimento. Atualmente, busco uma oportunidade como <b>Estagiária em TI, Desenvolvedora Júnior ou Trainee</b>.
-</p>
+</p><br>
+<i>Quer saber mais sobre mim? Dá uma olhada no meu CV! </i>
 
 <hr>
 
