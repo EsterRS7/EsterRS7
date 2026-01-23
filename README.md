@@ -6,7 +6,7 @@ Possuo experiência com <b>React, React Native, JavaScript, PHP, Java, Python e 
 
 Tenho atuação colaborativa em projetos em grupo, com foco em documentação, organização de fluxos e boas práticas de desenvolvimento. Atualmente, busco uma oportunidade como <b>Estagiária em TI, Desenvolvedora Júnior ou Trainee</b>.
 </p><br>
-<i>Quer saber mais sobre mim? Dá uma olhada no meu CV! </i>
+<i>Quer saber mais sobre mim? Dá uma olhada no meu [CV] (./Currículo_profissional.pdf)! </i>
 
 <hr>
 
