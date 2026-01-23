@@ -6,7 +6,7 @@ Possuo experiência com <b>React, React Native, JavaScript, PHP, Java, Python e 
 
 Tenho atuação colaborativa em projetos em grupo, com foco em documentação, organização de fluxos e boas práticas de desenvolvimento. Atualmente, busco uma oportunidade como <b>Estagiária em TI, Desenvolvedora Júnior ou Trainee</b>.
 </p><br>
-Quer saber mais sobre mim? Dá uma olhada no meu <a href="Curriculo_profissional.pdf">CV</a>!
+<i>Quer saber mais sobre mim? Dá uma olhada no meu <a href="Curriculo_profissional.pdf">CV</a>!</i>
 
 <hr>
 
@@ -17,7 +17,9 @@ I am a <b>Systems Analysis and Development</b> student with a technical backgrou
 I have experience with <b>React, React Native, JavaScript, PHP, Java, Python, and C++</b>, as well as databases such as <b>MySQL, SQL Server, and Firebase</b>. My experience includes authentication, database integration, business logic organization, accessibility, and responsive interfaces.
 
 I work well in collaborative environments, contributing to documentation, workflow organization, and clean code practices. I am currently seeking an opportunity as an <b>IT Intern, Junior Developer, or Trainee</b>.
-</p>
+</p><br>
+
+<i>If you’d like to learn more about my background, check out my <a href="Professional_curriculum.pdf">CV</a>!</i>
 
 ###
 
